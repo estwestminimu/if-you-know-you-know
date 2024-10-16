@@ -1,6 +1,6 @@
 * [#1 ap1](/Zad1/Main.java)
 >[!NOTE]
-> Najlepiej przekierować dane do pliku i tak wysłać
+> Najlepiej przekierować dane do pliku i tak mi wysłać do sprawdzenia
 
 #### **Przekierowanie**
 * #### Konsola
