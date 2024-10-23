@@ -2,6 +2,12 @@
 >[!NOTE]
 > Najlepiej przekierować dane do pliku i tak mi wysłać do sprawdzenia
 
+
+* [#2 ap2](/Zad2/Main.java)
+>[!NOTE]
+> Najlepiej przekierować dane do pliku i tak mi podesłać do sprawdzenia
+
+
 #### **Przekierowanie**
 * #### Konsola
 ```
