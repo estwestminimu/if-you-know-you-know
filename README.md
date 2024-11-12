@@ -11,7 +11,7 @@
 >[!NOTE]
 > Najlepiej przekierować dane do pliku i tak mi podesłać do sprawdzenia
 
-* [#2 ap2](/Zad3/Main.java)
+* [#3 ap3](/Zad3/Main.java)
 >[!NOTE]
 > Najlepiej przekierować dane do pliku i tak mi podesłać do sprawdzenia
 
